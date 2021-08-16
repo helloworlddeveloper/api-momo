@@ -1,12 +1,11 @@
 
 <?php
 /**
- * @package NOTAD API MOMO
- * @author  LÊ HỒNG SƠN : 0387654818
- * @copyright   Copyright (c) 2021, notad.net
- * @link    https://notad.net
+ * @package API MOMO
+ * @author  Vũ Đình Nam Khánh
+ * @copyright   Copyright (c) 2021
+ * @link    https://www.facebook.com/vdnk.iq
  * @since   Version 1.0
- * @method Sell Api Lịch sử giao dịch VCB, TCB 0387654818 
  */
 include ('class.momo.php');
 error_reporting(0);
