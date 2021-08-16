@@ -12,13 +12,13 @@ Sử dụng Charles bắt api của ứng dụng trên điện thoại.
 Thông tin database trong file Database.php dòng 337 đến 352
 
 //----------------------------------------------------------
-/**
+
  * @package API MOMO
  * @author  Vũ Đình Nam Khánh
  * @copyright   Copyright (c) 2021
  * @link    https://www.facebook.com/vdnk.iq
  * @since   Version 1.0
- */
+ 
 
 //----------------------------------------------------------
 
