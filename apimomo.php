@@ -1,11 +1,10 @@
 <?php
 /**
- * @package NOTAD API MOMO
+ * @package API MOMO
  * @author  Vũ Đình Nam Khánh
  * @copyright   Copyright (c) 2021
- * @link    https://vudinhnamkhanh.xyz/
+ * @link    https://www.facebook.com/vdnk.iq
  * @since   Version 1.0
- * @method Sell Api Lịch sử giao dịch VCB, TCB 
  */
 include ('class.momo.php');
 
