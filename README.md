@@ -1,7 +1,7 @@
-# apimomoapp
+# API MOMO
 Api momo app gốc, thời gian tức thời
 
-Hướng dẫn bắt api app
+Hướng dẫn bắt api app:
 
 https://viblo.asia/p/charles-ung-dung-cong-cu-charles-vao-kiem-thu-Qbq5Q1A45D8
 
@@ -13,12 +13,11 @@ Thông tin database trong file Database.php dòng 337 đến 352
 
 //----------------------------------------------------------
 /**
- * @package NOTAD API MOMO
- * @author  LÊ HỒNG SƠN : 0387654818
- * @copyright   Copyright (c) 2021, notad.net
- * @link    https://notad.net
+ * @package API MOMO
+ * @author  Vũ Đình Nam Khánh
+ * @copyright   Copyright (c) 2021
+ * @link    https://www.facebook.com/vdnk.iq
  * @since   Version 1.0
- * @method Sell Api Lịch sử giao dịch VCB, TCB 0387654818 
  */
 
 //----------------------------------------------------------
