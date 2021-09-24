@@ -47,7 +47,7 @@ CREATE TABLE `api_momo` (
 --
 
 INSERT INTO `api_momo` (`id`, `io`, `tranId`, `partnerId`, `partnerName`, `amount`, `comment`, `time`, `congtien`, `sapco`, `sapco1`) VALUES
-(1, '1', '10117112471', '01687654818', 'LE HONG SON', '1000', 'Abc', '1614005816.058', '-1', -1, -1);
+(1, '1', '10117112471', '01687654818', 'VINH DRAGON', '1000', 'Abc', '1614005816.058', '-1', -1, -1);
 
 -- --------------------------------------------------------
 
@@ -67,7 +67,7 @@ CREATE TABLE `info` (
 --
 
 INSERT INTO `info` (`Sharer`, `Sdt`, `Fb`, `Text`) VALUES
-('Lê Hồng Sơn', '0387654818', 'https://www.facebook.com/notad.leson/', 'Sell api vcb, tcb liên hệ zalo ');
+('Truyền Hình Vĩnh Long', '0903805353', 'https://www.facebook.com/', 'Vĩnh Dragon cute');
 
 --
 -- Chỉ mục cho các bảng đã đổ

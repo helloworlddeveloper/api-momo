@@ -2,9 +2,9 @@
 <?php
 /**
  * @package API MOMO
- * @author  Vũ Đình Nam Khánh
+ * @author  Vĩnh Dragon
  * @copyright   Copyright (c) 2021
- * @link    https://www.facebook.com/vdnk.iq
+ * @link    
  * @since   Version 1.0
  */
 include ('class.momo.php');
@@ -44,6 +44,7 @@ error_reporting(0);
     <div class="container">
         <div class="row">
             <div class="col-12">
+            <!-- Author: Vĩnh Dragon -->
                 <h3 class="titulo-tabla">MOMO Transaction Result - Working!<br/>Bạn có thể chuyển tiền về <?php echo '088.999.3605'?> và F5 trang để thử</h3>
                 <table id="example" class="table table-striped table-bordered" style="width:100%">
                     <thead>
@@ -144,5 +145,5 @@ error_reporting(0);
                  } );
     </script>
 </body>
-
+<!-- Author: Vĩnh Dragon -->
 </html>

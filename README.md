@@ -14,9 +14,9 @@ Thông tin database trong file Database.php dòng 337 đến 352
 //----------------------------------------------------------
 
  * @package API MOMO
- * @author  Vũ Đình Nam Khánh
+ * @author  Vĩnh Dragon
  * @copyright   Copyright (c) 2021
- * @link    https://www.facebook.com/vdnk.iq
+ * @link    
  * @since   Version 1.0
  
 

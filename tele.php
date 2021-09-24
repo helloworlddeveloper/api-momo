@@ -3,7 +3,7 @@
  * @package API MOMO
  * @author  Vũ Đình Nam Khánh
  * @copyright   Copyright (c) 2021
- * @link    https://www.facebook.com/vdnk.iq
+ * @link    
  * @since   Version 1.0
  */
 $sdtkh =$data->partnerId;
