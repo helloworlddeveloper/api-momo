@@ -1,11 +1,4 @@
 <?
-/**
- * @package API MOMO
- * @author  Vĩnh Dragon
- * @copyright   Copyright (c) 2021
- * @link    
- * @since   Version 1.0
- */
 require_once ('Database.php');
 $momo = new Momo();
 $apikeyy = $_GET['apikey'];
