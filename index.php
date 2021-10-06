@@ -1,12 +1,5 @@
 
 <?php
-/**
- * @package API MOMO
- * @author  Vĩnh Dragon
- * @copyright   Copyright (c) 2021
- * @link    
- * @since   Version 1.0
- */
 include ('class.momo.php');
 error_reporting(0);
 ?>
