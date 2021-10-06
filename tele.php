@@ -1,11 +1,4 @@
 <?php
-/**
- * @package API MOMO
- * @author  Vũ Đình Nam Khánh
- * @copyright   Copyright (c) 2021
- * @link    
- * @since   Version 1.0
- */
 $sdtkh =$data->partnerId;
 $tenkh = $data->partnerName;
 $idd = $data->tranId;
