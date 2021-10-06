@@ -1,11 +1,4 @@
 <?php
-/**
- * @package API MOMO
- * @author  Vĩnh Dragon
- * @copyright   Copyright (c) 2021
- * @link    https://www.facebook.com/
- * @since   Version 1.0
- */
 date_default_timezone_set('Asia/Ho_Chi_Minh');
 class Momo{
     private $config;
