@@ -11,17 +11,6 @@ Sử dụng Charles bắt api của ứng dụng trên điện thoại.
 
 Thông tin database trong file Database.php dòng 337 đến 352
 
-//----------------------------------------------------------
-
- * @package API MOMO
- * @author  Vĩnh Dragon
- * @copyright   Copyright (c) 2021
- * @link    
- * @since   Version 1.0
- 
-
-//----------------------------------------------------------
-
 Cron 1 phút 1 lần vào file class.momo.php
 
 Viết code check lời nhắn trong db hoặc,
